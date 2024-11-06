@@ -2,5 +2,8 @@
     "title":"Philosophy",
     "subTitle":"Hier ist die Rose, hier tanze!",
     "avatarUrl":"https://avatars.githubusercontent.com/u/179558124?u=2d58946e062d2bb66032ca0a035bf81081731779&v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "themeMode":"fix",
+    "dayTheme":"light",
+    "nightTheme":"github-light"
 }
